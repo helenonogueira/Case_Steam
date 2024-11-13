@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "casebeanalytic2024",
+  "private_key_id": "1dc659a0400eafb5381ded0b500450c37c9c342d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCW5cjLKPmaJceH\nN/O4CW7S88Wa9+B41KTSdQhReFLCkbvIJDoqGmpblqllucRRh6pcnm89cHcyDR+t\ndqC73xsupEVVN/OsGDIs4TkZ7GlJbA8IMGrJHMwNhigoOCgoL1gItjE5OQfchGuE\n/IiW8K4omc1e7JYRma8oe6oVhLNHyr9e3p6ZwqUsSB1WTASTKa6kwMbjIeqO3zwg\nGiKhRaX6MSppH+1F4EuFwq9Wkx7RujyVS/WqJW3EyPYFAqyB9aqerwRCD6WxewHy\nAbERfENTrB+95O1SIlLjSpg9mdrfoE6oDhaZK7vL+iCduGeByuFpQvJWKlrFf2pI\n2yTx6ldJAgMBAAECggEALulwI8zw0F33ao/YCrqQBDA6GkP+usHtHeq5c86S+B9j\ngETW+ljtAN1Ve6Ulpe0l5xZwYerxe5N96ikrrkydwEHctjInZLS/AJnibS9Eykk4\nYSTgRfbYb0nqeRqATYHufgLaSb5ztbhLTvRNqJNZqZCrOtwViZI8VLshdQAk1mf1\nG6hulxrPeBDMNQkA8mQ2OQFGB76ryhWfjYcGZ86usEiD1ejcEFMyfBZzzSIOrEVB\nw7ypc6WDI8lxeazl8PnVtsHiLS5Cuj5lPpfDEdRLOzss+IhGWc5NuzBvyRHBXs+D\nX8Vqwwr3uAtOa3Qqhe6ZaWRbt6E+T60CZYHkZAXRAwKBgQDIwPOAI5iUrXwW682C\n5Cr0TQU3VCoM7yMZtVLwuLdUFruND9NQgd1KePMmb/0+n/kJvAPMGCrRJBHrQF89\notJKntFDDlTiqVaC+BFE70r4L6V+Bl1fLy1M+bWx5ODXapeDOhNRVTueTpoyv9Ov\ntoJyPeR5esqPsELM0+013R9jvwKBgQDAbHtliJKol8W1Nld0pIhsXQDshLNH3joG\nZVfHMSj8REFpukPcgq8394VCgXqYCYxmtbF3CL9aXSwatHm5F9IKiHZhFl9y6BAy\npVDN6tpZ5DLBqP0xpYcedSxzFYA7+PPvVGm5E/6OGDwR5JIMcpsZe//wpJR1hkPY\nXCeJxd1m9wKBgBbo5iDubwAwmCOpf0d7sGc2zuyUf0QAmlnZtoBgJBPFkFu1vaDH\nYTCZgu4VA6p86ReyTCCjdWdunVjifLv089iuLSVg4lEHkCbcFmRuhniyP0mVglxV\nbu8E5DZL71jGAkpoe0Hh3y7eu3wlJgw8YMCWzZcLa0hgjg7/9GccN/PTAoGAThC0\nzzBlL3jDgQ0W1f+aSTxCD7KWeWWy7L1YqztKgW2/jAFBXsi2BWKp8Z1N+ziEeXbl\nFIG8ABEkv4DQkUMUt6k9PY4yExAK4kEnUyMgiq+F2AOTFP0uoDCxY88pQytw63u3\nmJp//23dkPTGO76TJfekkiBzCmr6Q2C/ualIdWkCgYA/Eymk8aiy5/Rh3OgHH4eZ\nf9ZPoq9STio82K/gSb4s7aCskllZIUejB9LXro3Shm8riyIiVdP1h2bHBQCuXset\n3Tdacy46WTd5pKZEty9w0UjkK0ADJgApO4tMTVl9vcAvyMKrS/l3WEJgRDO7oeRQ\naPztaKlgKTf+ZBxB/M4I1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "steam-case@casebeanalytic2024.iam.gserviceaccount.com",
+  "client_id": "113099558834357576372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/steam-case%40casebeanalytic2024.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
